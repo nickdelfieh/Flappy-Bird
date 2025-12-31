@@ -3,8 +3,8 @@
 ***Flappy Bird*** (by ***nickdelfieh*** --- not original code by
 ChatGPT)
 
-This is a ***Flappy Bird*** clone made in ***Swift***.\
-All original ***Flappy Bird*** rights belong to ***Dong Nguyen***.\
+This is a ***Flappy Bird*** clone made in ***Swift***.
+All original ***Flappy Bird*** rights belong to ***Dong Nguyen***.
 ***nintendo Art*** assets are copyrighted by their respective owners.
 
 This project is for ***learning and personal use only***.
@@ -23,8 +23,8 @@ This project is for ***learning and personal use only***.
 
 ## 📥 ***Download***
 
-1.  Click ***Code*** at the top of this repository\
-2.  Click ***Download ZIP***\
+1.  Click ***Code*** at the top of this repository
+2.  Click ***Download ZIP***
 3.  Wait until the download finishes (***required***)
 
 ------------------------------------------------------------------------
@@ -33,8 +33,8 @@ This project is for ***learning and personal use only***.
 
 ### 1️⃣ ***Open the Project***
 
-1.  Open ***Downloads*** on your Mac\
-2.  Double-click the ZIP file to extract it\
+1.  Open ***Downloads*** on your Mac
+2.  Double-click the ZIP file to extract it
 3.  Open ***Flappy bird.xcodeproj***
 
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ This project is for ***learning and personal use only***.
 
 1.  In Xcode, click the ***folder icon*** near the close button\
 2.  Click ***Flappy Bird*** (***the one with NO folder icon***)\
-3.  Make sure ***TARGETS → Flappy Bird*** is selected
+3.  Make sure ***TARGETS***
 
 On the right panel:
 
@@ -54,7 +54,7 @@ On the right panel:
     -   Or click ***Add an account...***
         -   Choose ***Apple ID***
         -   Sign in with your Apple ID and password
-        -   If you don't have an Apple ID, create one in\
+        -   If you don't have an Apple ID, create one in
             ***System Settings → Sign in to Apple***
 
 ***Any team type works***, including ***Personal Team***.
@@ -85,15 +85,15 @@ Use:
 
     com.yourname.flappy-bird
 
-If `flappy-bird` does not work, replace it with ***any name***\
+If `flappy-bird` does not work, replace it with ***any name***
 (example: `among-us`).
 
 ------------------------------------------------------------------------
 
 ### 4️⃣ ***Connect iPhone***
 
-1.  Connect your iPhone to your Mac with the charging cable\
-2.  If charging starts → ***good sign***\
+1.  Connect your iPhone to your Mac with the charging cable
+2.  If charging starts → ***good sign***
 3.  When asked ***"Trust This Mac?"***
     -   Tap ***Yes***
     -   Enter your passcode
@@ -111,7 +111,7 @@ If `flappy-bird` does not work, replace it with ***any name***\
 
 ### 6️⃣ ***Play***
 
--   The game should open automatically\
+-   The game should open automatically
 -   If it doesn't:
     -   Look for ***Flappy Bird*** on your iPhone
     -   Tap to open
@@ -124,7 +124,7 @@ If `flappy-bird` does not work, replace it with ***any name***\
 
 ### ***Build Succeeded but App Didn't Open***
 
--   Find the app manually on your iPhone\
+-   Find the app manually on your iPhone
 -   If it opens → ***everything is working***
 
 ### ***Build Failed***
