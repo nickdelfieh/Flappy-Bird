@@ -41,8 +41,8 @@ This project is for ***learning and personal use only***.
 
 ### 2️⃣ ***Select Target & Signing***
 
-1.  In Xcode, click the ***folder icon*** near the close button\
-2.  Click ***Flappy Bird*** (***the one with NO folder icon***)\
+1.  In Xcode, click the ***folder icon*** near the close button
+2.  Click ***Flappy Bird*** (***the one with NO folder icon***)
 3.  Make sure ***TARGETS***
 
 On the right panel:
