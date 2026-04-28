@@ -20,6 +20,15 @@ This project is for ***learning and personal use only***.
 -   iPhone charging cable
 
 ------------------------------------------------------------------------
+## 🧱 ***Problems***
+
+-    ***scores **IN PROGRESS*****
+-    ***leaderboards **IN PROGRESS*****
+-    ***IF YOU MINIMIZE THE GAME THE PIPES WILL GLITCH AND AN 99% game over***
+-    PLEASE IN ISSUES REPORT MORE BUGS
+
+
+------------------------------------------------------------------------
 
 ## 📥 ***Download***
 
