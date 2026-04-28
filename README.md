@@ -140,7 +140,7 @@ If `flappy-bird` does not work, replace it with ***any name***
 
 Possible reasons:
 
--   Project is ***very old*** and some code no longer works
+-   Project is ***uses old api so runs on older ios versions*** and some code no longer works
 -   iPhone was ***unplugged*** during build
 -   ***Signing*** or ***Bundle Identifier*** is incorrect
 
@@ -151,3 +151,4 @@ Possible reasons:
 -   iPad support is ***UNTESTED***
 -   This project is for ***fun and learning***
 -   ***Enjoy playing 🙂***
+-   **after 7 days the build is gonna expire and you need rebuild from your mac**
